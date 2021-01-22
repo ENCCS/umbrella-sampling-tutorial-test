@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ENCCS/gromacs-workshop-installation/HEAD?filepath=tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ENCCS/umbrella-sampling-tutorial-test/HEAD?filepath=tutorial.ipynb)
 
 # Umbrella Sampling Tutorial
 
