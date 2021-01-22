@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/
+*.pyc
+*~
+mdout.mdp
+topol.tpr
+pullx.dat
+pullf.dat
+tpr.dat
+histo.xvg
+profile.xvg
+md.log
+state.cpt
+state_prev.cpt
+traj_comp.xtc
+confout.gro
+ener.edr
+sampling/*/pullx.xvg
+sampling/*/pullf.xvg
